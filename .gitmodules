@@ -1,0 +1,3 @@
+[submodule "OpenXAI-tests"]
+	path = OpenXAI-tests
+	url = git@github.com:Coaster41/OpenXAI-tests.git
